@@ -11,6 +11,6 @@ node_modules
 /coverage
 .eslintcache
 
-lib
+#lib
 test-results
 *.generated.js
